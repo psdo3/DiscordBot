@@ -1,5 +1,6 @@
 import discord
 import mysql.connector
+import os
 from datetime import datetime
 from queue import Queue
 from discord.utils import get
@@ -388,4 +389,4 @@ async def on_reaction_remove(reaction, user):
                 await user.remove_roles(roleName) #Remove role from user
             discordBotDB.commit()
 
-client.run("OTg3NDUyNDgwMzEwOTAyOTA0.G-mDol.er4xY5ILPX7b6llKKZzDbE-ALRgpF5fDbY9VyA")
+client.run(os.getenv('TOKEN'))
