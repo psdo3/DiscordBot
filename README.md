@@ -15,8 +15,7 @@ A bot with various commands that allow users (with administrator privilege) to i
 - More to come later
 
 ## Installation
-It is highly recommended to follow the discord.py [installation](https://discordpy.readthedocs.io/en/stable/intro.html#installing) instructions. 
-You will also need to download mysql to get access to the database. Follow their [installation](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) page to download the correct mysql version on your system.
+It is highly recommended to follow the discord.py [installation](https://discordpy.readthedocs.io/en/stable/intro.html#installing) instructions. You will also need to download mysql to get access to the database. Follow their [installation](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) page to download the correct mysql version on your system.
 
 ## Support
 Please send me an email at phudo15@yahoo.com for any tips and recommendations to improve the bot
