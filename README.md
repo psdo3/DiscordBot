@@ -29,4 +29,4 @@ Please send me an email at phudo15@yahoo.com for any tips and recommendations to
 - More to come.
 
 ## Authors and acknowledgment
-Phu Do - main developer and novice practicing with python
+Phu Do - main developer and novice learning python
