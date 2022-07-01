@@ -6,6 +6,11 @@ from queue import Queue
 from discord.utils import get
 from discord.ext import commands, tasks
 
+'''
+NOTE DUE TO SECURITY REASON TOKEN HAS BEEN MOVED TO ENV
+TO RUN THIS CODE YOU WILL NEED TO CREATE YOUR OWN BOT AND GET ITS TOKEN
+'''
+
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix = '!', intents = intents)
 eventDictionary = {} #Empty dictionary where task will be put later
